@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>healthcare-tests - TS_RegressionTest-290820257363u7e7773</name>
+   <name>TS Checkout</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,7 +10,7 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>1286ccc6-2057-418d-87af-23d00cc6cd0e</testSuiteGuid>
+   <testSuiteGuid>33ac0841-e959-4ac8-955a-0d5fe5d9e395</testSuiteGuid>
    <testCaseLink>
       <guid>12b1ed24-3d2b-4bed-87e1-7c72470cdce7</guid>
       <isReuseDriver>false</isReuseDriver>
