@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>healthcare-tests - TS_RegressionTest-29082025</name>
+   <name>healthcare-tests - TS_RegressionTest-29082025 - updated</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
