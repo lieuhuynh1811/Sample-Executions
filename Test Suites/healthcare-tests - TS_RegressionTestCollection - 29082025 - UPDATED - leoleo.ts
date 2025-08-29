@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteCollectionEntity>
    <description></description>
-   <name>healthcare-tests - TS_RegressionTestCollection - 29082025 - UPDATED</name>
+   <name>healthcare-tests - TS_RegressionTestCollection - 29082025 - UPDATED - leoleo</name>
    <tag></tag>
    <delayBetweenInstances>0</delayBetweenInstances>
    <executionMode>SEQUENTIAL</executionMode>
