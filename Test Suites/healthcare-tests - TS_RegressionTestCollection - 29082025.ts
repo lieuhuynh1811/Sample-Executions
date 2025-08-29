@@ -35,7 +35,7 @@
             </runConfigurationData>
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
-         <runEnabled>false</runEnabled>
+         <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/healthcare-tests - TS_RegressionTest-29082025</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
