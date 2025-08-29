@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteCollectionEntity>
    <description></description>
-   <name>TSC_Check Run Enable or Disable - IschangeKS</name>
+   <name>TSC_Check Run Enable or Disable - IschangeKS(Dung Giang)</name>
    <tag></tag>
    <delayBetweenInstances>0</delayBetweenInstances>
    <executionMode>PARALLEL</executionMode>
