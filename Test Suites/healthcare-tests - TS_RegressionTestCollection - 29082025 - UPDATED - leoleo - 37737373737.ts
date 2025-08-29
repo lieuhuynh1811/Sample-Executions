@@ -36,7 +36,7 @@
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/healthcare-tests - TS_RegressionTest-29082025 - updated - name</testSuiteEntity>
+         <testSuiteEntity>Test Suites/healthcare-tests - TS_RegressionTest-290820257363</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -67,7 +67,7 @@
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/healthcare-tests - TS_RegressionTest-29082025 - updated - name</testSuiteEntity>
+         <testSuiteEntity>Test Suites/healthcare-tests - TS_RegressionTest-290820257363</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
